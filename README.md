@@ -2,4 +2,4 @@
 
 Sequel to [NinjaThea](https://store.steampowered.com/app/2005800/NinjaThea/).
 
-Est. June 2024
+Expected release date June 2024
